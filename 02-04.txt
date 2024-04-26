@@ -1,0 +1,54 @@
+02-04
+operadores de identidade serve para a comparacao de objetos 
+is.exemplo nome is marcos
+is not exemplo x is not phyton 
+operador is 
+is not 
+string e caractere 
+
+por esse motivo is dara que time carlos e time fabricia apontam para o mesmo objeto
+x1= "botafogo"
+x2="flamengo"
+x3="botafogo"
+
+x result= x1 is x3 verdadeiro
+x result= x1 is not x2 verdadeiro 
+x result= x1 is x3 verdadeiro
+x result= x2 is not x3 verdadeiro 
+ m 
+
+operadores de associacao servem para a comparacao de objetos                   print=apareca na tela
+l
+in e verdade exemplo 2 in x                                                    input=escreva     if=se  else dois pontos significa se nao 
+not in  exemplo 
+
+exercicio
+banana,laranja,uva,ameixa 
+
+x="banana"
+x2="laranja"
+x3="abacaxi"
+ 
+xresult= x in frutas verdadeiro
+xresult= x not in frutas falso 
+xresult= x2 not in frutas falso 
+xresult= x3 in frutas falso 
+
+
+operadores condicionais
+SEQUENCIAL cada comando e executado somente apos o termino do comando anterior 
+desisao usamos no dia a dia, sempre tomamos desisao 
+
+
+
+if -expressao for vdd
+else dois pontos  
+
+
+se opcao==1 entao
+item=1
+escreva(vc comprou tal item)
+  
+
+
+

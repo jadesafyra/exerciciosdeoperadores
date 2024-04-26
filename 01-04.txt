@@ -1,0 +1,59 @@
+01-04
+operadores- sao simbolos especiais que tem um significado proprio para a linguagem e estao associados a determinados operacoes
+operadores aritmeticos- 
+
+atividade-
+x=6+4*2= 14
+x=14
+
+x=(4*9+5)
+x=41 
+
+x=((6+7)*9
+x=117
+ 
+x=(15+20-30)
+x=5
+
+x=(6+5**2)
+x=31  
+
+x=5
+x recebe 5, guarda o valor dentro. e inteiro
+exemplo escreva x 
+na tela apareceria 5 
+x=1 o valor de 1 e atribuido a x 
+
+
+ exercicio 
+x=8
+x+=5=13
+x-=4=4 
+x*=20=160
+x/=2=4
+
+operador
+>(maior que) exemplo x > 5
+<(menor que) exemplo x < 5 
+==(igual a)
+!= ( diferente de)
+
+x=8
+x1=3
+x<x1 falso 8<3
+x==x1 falso
+x>=x1 8>=x1 verdadeiro
+x!=x1  8!=x1 verdadeiro
+
+and=&&
+or=
+not=!
+
+not. ele inverte a logica
+!(eu gosto de vc)
+
+== igual igual
+!= nao igual 
+
+
+
